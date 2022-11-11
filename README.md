@@ -10,3 +10,7 @@ You can then test your EMFI tool on the RP2040, e.g. in the "pin 1" corner that'
 * If fault injection causes the RP20240 to hang, the LED will permanently stay on or off.
 
 After the test, just power cycle the Pi Pico.
+
+---
+
+Short video of the target being attacked by a PicoEMP: https://youtu.be/5uhnqSTVd94
